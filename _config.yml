@@ -2,14 +2,12 @@
 title: Glitched Panda
 tagline: A pretty useless blog
 url: https://blog.glitchedpanda.cf/
-paginate: 1
 baseurl: ""
 permalink: pretty
 
 # Gems
 plugins:
   - jekyll-gist
-  #- jekyll-paginate
   - jekyll-seo-tag
 
 # Optimize Jekyll
