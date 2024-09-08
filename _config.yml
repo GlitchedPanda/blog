@@ -3,7 +3,8 @@ title: Glitched Panda
 tagline: A pretty useless blog
 url: https://blog.glitchedpanda.cf/
 baseurl: ""
-permalink: pretty
+#permalink: pretty
+permalink: /posts/:slug
 
 # Gems
 plugins:
